@@ -1,5 +1,4 @@
-# Welcome to youbinrocks.github.io
-<hr>
+# Welcome to youbin's github
 <h1 align="center">I'm <a href="https://github.com/youbinrocks">Youbin Park<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
@@ -24,7 +23,8 @@
 </p>
 
 <Br>
-  
+<hr>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
