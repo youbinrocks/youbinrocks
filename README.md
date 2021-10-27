@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🏫: I'm a Software Engineer
 - 🔭: I’m currently working on KG INICIS
-- 🌱: I’m currently working on PG Servce. 🧠💻🤖
+- 🌱: I’m currently working projects on PG Service. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - ⚡  Fun fact: I play LOL, PUBG!
 
@@ -57,12 +57,12 @@ Here are some ideas to get you started:
 <h1>Tools I use! 🛠️</h1>
 <Br>
 
-  <
-|![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-|![](https://img.shields.io/badge/Spring-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-|![](https://img.shields.io/badge/Spring-Boot-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-|![](https://img.shields.io/badge/PHP-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-|![](https://img.shields.io/badge/JavaScript-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
+  
+|![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=Java&logoColor=darkgreen)
+|![](https://img.shields.io/badge/Spring-FF6F00?style=for-the-badge&logo=Spring&logoColor=white)
+|![](https://img.shields.io/badge/Spring-Boot-F7931E?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+|![](https://img.shields.io/badge/PHP-D00000?style=for-the-badge&logo=PHP&logoColor=white)
+|![](https://img.shields.io/badge/JavaScript-F37626.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 |![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -77,25 +77,11 @@ Here are some ideas to get you started:
 <h1>Some of my Projects! 🎨</h1>
 <Br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
-
-<Br>
-<hr>
-<Br>
-<h1>Certifications! 🏆</h1>
-<Br>
-
 
 <Br>
 <hr>
 <Br>
 
-
-<hr>
-<Br>
-
-<Br>
-<hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
