@@ -49,24 +49,28 @@ Here are some ideas to get you started:
 <Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
-![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=Java&logoColor=darkgreen)
-![](https://img.shields.io/badge/Spring-FF6F00?style=for-the-badge&logo=Spring&logoColor=white)
-![](https://img.shields.io/badge/Spring-Boot-F7931E?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![](https://img.shields.io/badge/PHP-D00000?style=for-the-badge&logo=PHP&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F37626.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/MySQL-F37626.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/MySQL-F37626.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+|![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=Java&logoColor=darkgreen)  
+|![](https://img.shields.io/badge/Spring-FF6F00?style=for-the-badge&logo=Spring&logoColor=white) 
+|![](https://img.shields.io/badge/Spring-Boot-F7931E?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+|![](https://img.shields.io/badge/PHP-D00000?style=for-the-badge&logo=PHP&logoColor=white)
+|![](https://img.shields.io/badge/JavaScript-F37626.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+|![](https://img.shields.io/badge/MySQL-F37626.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+v![](https://img.shields.io/badge/MySQL-F37626.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 
-
+|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+  
+  
 <Br>
 <hr>
 <Br>
 <h1>Tools I use! 🛠️</h1>
 <Br>
   
-![](https://img.shields.io/badge/eclipse-342B029.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ IDEA-2C2D72?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white)
+|![](https://img.shields.io/badge/eclipse-342B029.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
+|![](https://img.shields.io/badge/IntelliJ IDEA-2C2D72?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white)
 
 <Br>
 <hr>
