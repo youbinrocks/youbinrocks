@@ -49,19 +49,16 @@ Here are some ideas to get you started:
 <Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
-|![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=Java&logoColor=darkgreen)  
-|![](https://img.shields.io/badge/Spring-FF6F00?style=for-the-badge&logo=Spring&logoColor=white) 
-|![](https://img.shields.io/badge/Spring-Boot-F7931E?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-|![](https://img.shields.io/badge/PHP-D00000?style=for-the-badge&logo=PHP&logoColor=white)
-|![](https://img.shields.io/badge/JavaScript-F37626.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-|![](https://img.shields.io/badge/MySQL-F37626.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-v![](https://img.shields.io/badge/MySQL-F37626.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
-
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
   
 <Br>
 <hr>
