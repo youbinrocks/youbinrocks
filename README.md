@@ -49,6 +49,14 @@ Here are some ideas to get you started:
 <Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
+![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=Java&logoColor=darkgreen)
+![](https://img.shields.io/badge/Spring-FF6F00?style=for-the-badge&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/Spring-Boot-F7931E?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![](https://img.shields.io/badge/PHP-D00000?style=for-the-badge&logo=PHP&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F37626.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/MySQL-F37626.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/MySQL-F37626.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
 
 
 <Br>
@@ -56,25 +64,20 @@ Here are some ideas to get you started:
 <Br>
 <h1>Tools I use! 🛠️</h1>
 <Br>
-
   
-|![](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=Java&logoColor=darkgreen)
-|![](https://img.shields.io/badge/Spring-FF6F00?style=for-the-badge&logo=Spring&logoColor=white)
-|![](https://img.shields.io/badge/Spring-Boot-F7931E?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-|![](https://img.shields.io/badge/PHP-D00000?style=for-the-badge&logo=PHP&logoColor=white)
-|![](https://img.shields.io/badge/JavaScript-F37626.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-
+![](https://img.shields.io/badge/eclipse-342B029.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ IDEA-2C2D72?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white)
 
 <Br>
 <hr>
 <Br>
 <h1>Some of my Projects! 🎨</h1>
+  - GMO / BOKU Interface Service for PG
+  - AIA / SAMSUNG AppCard Interface Service
+  - Korea Scholarship Foundation VOC Service
+  - HANA Bank VOC Service
+  - Local Government Officials Development Institute Booking Service
+  - and More!
 <Br>
 
 
