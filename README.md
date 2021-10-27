@@ -16,13 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-
 # youbinrocks.github.io
-<!--
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
--->
+
 <hr>
 <h1 align="center">I'm <a href="https://github.com/youbinrocks">Youbin Park<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
@@ -35,20 +30,21 @@ Here are some ideas to get you started:
 - ⚡  Fun fact: I play LOL, PUBG!
 
 <hr>
-<Br>
 <h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-</a> &nbsp;&nbsp;&nbsp;  <a href="mailto:youbinrocks1@gmail.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/youbinrocks1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/youbinrocks target="blank">
-  <img align="center" src="https://img.shields.io/badge/youbinrocks-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+  <p align="center">
+  <a href="mailto:youbinrocks1@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/youbinrocks1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>    &nbsp;&nbsp;&nbsp;       
+  
+  <a href="https://www.github.com/youbinrocks" target="blank">
+    <img align="center" src="https://img.shields.io/badge/youbinrocks-100000?style=for-the-badge&logo=github&logoColor=white" />
+ </a>
 </p>
 
 <Br>
-<hr>
-<Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
-<Br>
+  
+### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -60,32 +56,22 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
   
-<Br>
-<hr>
-<Br>
-<h1>Tools I use! 🛠️</h1>
-<Br>
-  
-|![](https://img.shields.io/badge/eclipse-342B029.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
-|![](https://img.shields.io/badge/IntelliJ IDEA-2C2D72?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white)
+ <hr>
 
+### Tools I use! 
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)&nbsp;
+![SpringToolSuite](http://img.shields.io/badge/-Spring-2C2255?style=flat-square&logo=Spring-boot&logoColor=07fc03)
 <Br>
 <hr>
-<Br>
+
 <h1>Some of my Projects! 🎨</h1>
-  - GMO / BOKU Interface Service for PG
-  - AIA / SAMSUNG AppCard Interface Service
-  - Korea Scholarship Foundation VOC Service
-  - HANA Bank VOC Service
-  - Local Government Officials Development Institute Booking Service
-  - and More!
-<Br>
-
-
-<Br>
-<hr>
-<Br>
-
+- GMO / BOKU Interface Service for PG&nbsp;<br>
+- AIA / SAMSUNG AppCard Interface Service&nbsp;<br>
+- Korea Scholarship Foundation VOC Service&nbsp;<br>
+- HANA Bank VOC Service&nbsp;<br>
+- Local Government Officials Development Institute Booking Service&nbsp;<br>
+- and More!&nbsp;
+<br>
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
