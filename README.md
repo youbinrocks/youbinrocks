@@ -46,6 +46,8 @@
 <hr>
 
 <h1>Some of my Projects! 🎨</h1>
+- SevenEleven IT Service at your Service! G&nbsp;<br>
+- RESTAPI service for your delivery! &nbsp;<br>
 - GMO / BOKU Interface Service for PG&nbsp;<br>
 - AIA / SAMSUNG AppCard Interface Service&nbsp;<br>
 - Korea Scholarship Foundation VOC Service&nbsp;<br>
