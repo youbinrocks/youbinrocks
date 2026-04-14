@@ -4,8 +4,8 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a Software Engineer
-- 🔭: I’m currently working on KG INICIS
-- 🌱: I’m currently working projects on PG Service. 🧠💻🤖
+- 🔭: I’m currently working on Lotte Innovate
+- 🌱: I’m currently working projects on convenience store system for MD. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - ⚡  Fun fact: I play LOL, PUBG!
 
